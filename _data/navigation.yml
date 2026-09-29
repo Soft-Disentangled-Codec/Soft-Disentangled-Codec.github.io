@@ -2,6 +2,8 @@
 main:
   - title: "Audio samples"
     url: /audio
+  - title: "Code"
+    url: https://github.com/Soft-Disentangled-Codec/Soft-Disentangled-Codec
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
